@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    smart_validator (0.3.0)
+    smart_validator (0.4.0)
       qonfig (~> 0.28)
       smart_initializer (~> 0.11)
       smart_schema (~> 0.11)
