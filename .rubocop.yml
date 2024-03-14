@@ -14,7 +14,6 @@ AllCops:
     - Rakefile
     - smart_validator.gemspec
     - bin/console
-
   DisplayCopNames: true
   SuggestExtensions: false
 
