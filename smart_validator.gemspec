@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.metadata['homepage_uri'] =
     spec.homepage
   spec.metadata['source_code_uri'] =
-    'https://github.com/smart-rb/smart_validator'
+    'https://github.com/smart-rb/smart_validator/blob/master'
   spec.metadata['changelog_uri'] =
     'https://github.com/smart-rb/smart_validator/blob/master/CHANGELOG.md'
 
