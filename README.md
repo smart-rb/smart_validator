@@ -1,6 +1,6 @@
 # SmartCore::Validator
 
-Validation layer for any business logic with a declarative rule-oriented API and instance-based logic.
+Validation layer for any business logic with a declarative rule-/contract-oriented API and instance-based behavior.
 
 ---
 
