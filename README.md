@@ -1,5 +1,7 @@
 # SmartCore::Validator
 
+Validation layer for any business logic with a declarative rule-oriented API and instance-based logic.
+
 ---
 
 <img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_supporting_rounded.svg" alt="Supported by Cado Labs" />
