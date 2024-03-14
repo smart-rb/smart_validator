@@ -46,4 +46,4 @@ Released under MIT License.
 
 ## Authors
 
-[AnotherRegularDude] (https://github.com/AnotherRegularDude)
+[AnotherRegularDude](https://github.com/AnotherRegularDude)
