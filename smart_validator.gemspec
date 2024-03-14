@@ -13,6 +13,7 @@ Gem::Specification.new do |spec|
   spec.summary = 'Custom DSL-first validator with a conviniet declarative API.'
   spec.description = 'Validation layer for any business logic with a declarative rule-oriented API.'
   spec.homepage = 'https://github.com/smart-rb/smart_validator'
+  spec.license = 'MIT'
 
   spec.metadata['homepage_uri'] =
     spec.homepage
