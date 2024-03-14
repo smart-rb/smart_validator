@@ -26,7 +26,7 @@ require 'smart_core/validator'
 
 ## Usage
 
-- soon;
+- soon (you can check specs for usage examples at this moment)
 
 ---
 
