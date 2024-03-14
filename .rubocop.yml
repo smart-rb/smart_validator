@@ -1,0 +1,33 @@
+inherit_gem:
+  armitage-rubocop:
+    - lib/rubocop.general.yml
+    - lib/rubocop.rake.yml
+    - lib/rubocop.rspec.yml
+
+AllCops:
+  TargetRubyVersion: 3.0
+  NewCops: enable
+  Include:
+    - lib/**/*.rb
+    - spec/**/*.rb
+    - Gemfile
+    - Rakefile
+    - smart_validator.gemspec
+    - bin/console
+
+  DisplayCopNames: true
+  SuggestExtensions: false
+
+Naming/MethodParameterName:
+  AllowedNames: ["x", "y", "z"]
+
+Style/HashConversion:
+  Exclude:
+    - spec/**/*_spec.rb
+
+Naming/RescuedExceptionsVariableName:
+  Enabled: false
+
+Naming/FileName:
+  Exclude:
+    - lib/smart-validator.rb
